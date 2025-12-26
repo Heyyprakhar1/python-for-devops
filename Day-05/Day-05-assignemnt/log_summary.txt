@@ -1,0 +1,5 @@
+Log Analysis Summary
+====================
+INFO: 3
+WARNING: 0
+ERROR: 0

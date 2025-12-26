@@ -1,0 +1,19 @@
+INFO Application started
+
+
+INFO User logged in
+
+
+WARNING Disk usage is high
+
+
+ERROR Failed to connect to database
+
+
+INFO Request processed
+
+
+ERROR Timeout while calling API
+
+
+WARNING Memory usage exceeded
